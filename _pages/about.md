@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Mich
+I'm a third year undergraduate student from [School of Physics](https://spe.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). My research interest includes AdS/CFT correspondence, 2D CFT and related topics.
 
 A data-driven personal website
 ======
