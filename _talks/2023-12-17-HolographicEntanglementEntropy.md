@@ -10,4 +10,4 @@ location: "GuangZhou, GuangDong"
 
 This is the presentation of the quantum mechanics seminar. This presentation primarily focuses on the calculation of quantum entanglement in Conformal Field Theory using the replica trick and holographic methods.
 
-[Download slides here](http://zhephysics.github.io/files/talks_20231217_HolographicEntanglementEntropy.pdf)
+[Download slides here](http://zhephysics.github.io/files/talks/20231217_HolographicEntanglementEntropy.pdf)
