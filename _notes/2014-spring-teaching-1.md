@@ -2,7 +2,7 @@
 title: "Reading note of 1906.08616 Covariant phase space with boundaries"
 collection: notes
 permalink: /notes/2014-spring-teaching-1
-date: 2024.03.18
+date: 2024-03-18
 ---
 
 This reading note is mainly based on Daniel Harlow and Jieqiang Wu's paper [Covariant phase space with boundaries](https://arxiv.org/abs/1906.08616) and Daniel's two talks on [IAS](https://www.youtube.com/watch?v=KKzIMCRkIhs) and [QGI Virtual Seminar](https://www.youtube.com/watch?v=B2VUO1WWkVY).
